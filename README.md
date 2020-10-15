@@ -1,3 +1,6 @@
+# Why this fork?
+Just in case I don't get to update this and/or forget: https://github.com/unboxed/rspec-sitemap-matchers/pull/3
+
 # RSpec sitemap matchers
 
 Sitemap [protocol](http://www.sitemaps.org/protocol.html) matchers for RSpec.
